@@ -1,0 +1,57 @@
+body{font-family: 'Lato', sans-serif;
+    display: inline-block;
+    
+}
+h1{
+    font-size: 50px;
+    color: brown;}
+.name{color: tomato;}
+.about-me{
+      
+        margin-left: 50px;
+        padding-left: 50px;}
+.half-width{
+  width: 40%;
+    float: left;
+    height: 100%;
+    text-align: left;
+    margin: 20px 0px 0px 60px;
+    padding: 25px;}
+
+.btm{text-decoration: none;
+    background-color: royalblue;
+                border: red;
+                padding: 10px 20px;
+                border-radius: 10px;
+                color: white;
+                font-weight: 700;}   
+
+
+.latest-work{ 
+     display: inline-flex;
+   
+    
+ } 
+.box{box-shadow: 10px 10px 40xp gray;
+    display: inline-grid;
+    float: left;}
+    .from{text-align: center;
+    margin: 200px;
+    padding:20px;
+    background-color: rgb(8, 107, 124);
+    border-radius: 40px;
+}
+
+.footer{text-align: center;
+    font-family: fantasy;}
+    #exp{margin: auto;
+    }
+    #dip{width: 10px;}
+    #chat{font-family: Georgia, 'Times New Roman', Times, serif;    margin: 198px;
+        padding: 18px;
+        background-image: url(img/grp.png);
+        background-repeat: no-repeat;
+        border: 1px solid;
+        width: 72%;
+        text-align: center;
+        border-radius: 132px;}
